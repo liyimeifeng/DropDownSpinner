@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NiceSpinner">
+        <attr name="arrowTint" format="color" />
+        <attr name="hideArrow" format="boolean" />
+        <attr name="showHintText" format="boolean" />
+        <attr name="arrowDrawable" format="reference|color"/>
+        <attr name="dropDownListPaddingBottom" format="dimension"/>
+        <attr name="backgroundSelector" format="integer"/>
+        <attr name="spinner_r_t_b_padding" format="dimension"/>  //上右下间距
+        <attr name="spinner_left_padding" format="dimension"/>    //左间距
+        <attr name="textTint" format="color"/>
+    </declare-styleable>
+</resources>
