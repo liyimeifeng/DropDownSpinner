@@ -1,3 +1,10 @@
+# 在此基础上做了点小修改，主要添加了以下几点：
+            app:spinner_left_padding="@dimen/dimen_10"   //左边距
+            app:spinner_r_t_b_padding="@dimen/dimen_5"   //上下右边距
+            app:showHintText="true"     //是否显示hint默认值，默认false
+
+
+
 # Nice Spinner [![](https://jitpack.io/v/arcadefire/nice-spinner.svg)](https://jitpack.io/#arcadefire/nice-spinner) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Nice%20Spinner-blue.svg?style=flat)](https://android-arsenal.com/details/1/2225)
 
 NiceSpinner is a re-implementation of the default Android's spinner, with a nice arrow animation and a different way to display its content.
